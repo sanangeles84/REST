@@ -1,0 +1,10 @@
+{
+  "name": "rest",
+  "version": "1.2.3",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "4.17.1",
+    "request": "2.88.0"
+  }
+}
